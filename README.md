@@ -5,6 +5,7 @@ It is primarily Astro, Tailwind and Typescript, with a very small amount of Soli
 ## 📋 Features
 
 - ✅ 100/100 Lighthouse performance
+  ![SEO Mission Control](https://lighthouse-metrics.com/lighthouse/checks/93225c20-7c27-4c1b-b805-a9ce360555a3)
 - ✅ Responsive
 - ✅ Accessible
 - ✅ SEO-friendly
@@ -22,7 +23,7 @@ It is primarily Astro, Tailwind and Typescript, with a very small amount of Soli
 
 ## 💯 Pagespeed Insights score
 
-![SEO Mission Control]()
+![SEO Mission Control](https://pagespeed.web.dev/analysis/https-www-seomissioncontrol-com/gjrcln4edc?form_factor=desktop)
 
 ## 🕊️ Lightweight
 
