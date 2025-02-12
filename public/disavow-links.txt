@@ -1,0 +1,2 @@
+# One domain to disavow
+domain:www.gozoof.com
