@@ -7,8 +7,6 @@ dateEnd: "02/18/2025"
 
 As an On-page SEO specialist for Albireoo, I implemented technical and content-driven strategies to enhance website visibility, improve search rankings, and optimize user experience. My work focused on refining site structure, improving Core Web Vitals, and ensuring technical SEO best practices for long-term performance.
 
----
-
 ## 🔍 Key Contributions & Achievements
 
 ### 1️⃣ Enhancing Crawlability & Indexation
@@ -77,8 +75,6 @@ As an On-page SEO specialist for Albireoo, I implemented technical and content-d
 
 **🔍 Impact:** Continuous SEO growth, better keyword rankings, and data-backed optimization.
 
----
-
 ## 🚀 Final Outcome
 
 By implementing these strategies, **Albireoo** experienced:  
@@ -89,5 +85,3 @@ By implementing these strategies, **Albireoo** experienced:
 ✅ Reduced **technical SEO issues**, improving overall search performance.
 
 For more details on **Albireoo**, visit: [Albireoo.fr](https://www.albireoo.fr/)
-
----
