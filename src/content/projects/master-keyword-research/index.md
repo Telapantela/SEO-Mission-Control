@@ -1,8 +1,8 @@
 ---
 title: "How to Master Keyword Research in 2025"
 summary: "Discover advanced keyword research strategies for 2025, including AI-powered clustering, voice search optimization, and predictive trends. Learn how to dominate organic search with precision targeting and actionable insights."
-date: "Feb 07 2025"
-lastUpdated: "Feb 18 2025"
+date: "Feb 07, 2025"
+lastUpdated: "Feb 18, 2025"
 draft: false
 tags:
   - Search Engine Optimization

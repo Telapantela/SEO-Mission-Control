@@ -1,2 +1,8 @@
-# One domain to disavow
+# Seven domain to disavow
 domain:www.gozoof.com
+domain:www.zhanhao.online
+domain:www.seo-tip.com
+domain:weknow.website
+domain:vickys.design
+domain:muabannhadat.tv
+domain:bitcoinmix.biz
