@@ -2,12 +2,12 @@
 title: "Privacy Policy"
 date: "02/04/2025"
 description: "Detailed privacy policy outlining how we collect, use, and protect user information for our SEO and digital marketing services."
-keywords: “privacy policy, data protection, user privacy, SEO services, digital marketing privacy.”
+keywords: “Privacy Policy, Data Protection, User Privacy, SEO Services, Digital Marketing Privacy.”
 ---
 
 # Privacy Policy
 
-Last Updated: February 4, 2025
+Last Updated: February 25, 2025
 
 This Privacy Policy governs the manner in which Dušan Spasojević ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users (each, a "User") of our SEO and digital marketing services website ("Site"). This privacy policy applies to the Site and all products and services offered by us.
 
