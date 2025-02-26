@@ -49,7 +49,7 @@ export const SOCIALS: Socials = [
     NAME: "Email",
     ICON: "email", 
     TEXT: "seomissioncontrol@yahoo.com",
-    HREF: "mailto:seomissioncontrol@yahoo.com",
+    HREF: "seomissioncontrol@yahoo.com",
   },
   { 
     NAME: "Github",
