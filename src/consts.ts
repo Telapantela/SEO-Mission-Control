@@ -49,7 +49,7 @@ export const SOCIALS: Socials = [
     NAME: "Email",
     ICON: "email", 
     TEXT: "seomissioncontrol@yahoo.com",
-    HREF: "mailto:seomissioncontrol@yahoo.com",
+    HREF: "https://www.yahoo.com/",
   },
   { 
     NAME: "Github",
@@ -62,12 +62,6 @@ export const SOCIALS: Socials = [
     ICON: "linkedin",
     TEXT: "Dušan Spasojević",
     HREF: "www.linkedin.com/in/dušan-spasojević-99093b281",
-  },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "Telapantela",
-    HREF: "https://twitter.com/",
   },
 ]
 
