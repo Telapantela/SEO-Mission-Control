@@ -29,7 +29,7 @@ This isn’t tech overload or perfectionism. It’s a practical plan—steps you
 - **My Angle**: SEO’s a grind, not a quick fix. The best sites keep improving, bit by bit.
 - **Your Move**: Pick one thing to fix after reading—like a dead page. Small wins add up—I’ll show you how.
 
-_Read About_: [How To Do Keyword Research: 27 Beginner-Friendly Tips](../how-to-do-keyword-research/index.md)
+_Read About_: [How To Do Keyword Research: 27 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/how-to-do-keyword-research)
 
 ---
 
@@ -77,7 +77,7 @@ Spy on competitors to leap ahead—not just copy them.
 - **Exploit Gaps**: Test their speed with Lighthouse. If they’re slow (e.g., 4 seconds), get yours under 2—speed ranks ([source](https://developers.google.com/search/docs/appearance/page-experience)).
 - **Your Edge**: Pick 3 rivals. Audit their top pages. Beat them on one thing—like mobile speed. Track it in Semrush.
 
-_Read About_: [How To Write SEO Content: 24 Beginner-Friendly Tips](../seo-content-writing-strategy/index.md)
+_Read About_: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/seo-content-writing-strategy)
 
 ---
 
@@ -158,7 +158,7 @@ Here’s your 12-step audit—battle-tested by me, better than tool-heavy guides
 - **Tip**: Go evergreen—“2024 tips” to “timeless hacks” ([source](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)).
 - **Your Gain**: Update one page. Add a video—track traffic in 30 days.
 
-_Internal Link_: [How To Write SEO Content: 24 Beginner-Friendly Tips](../seo-content-writing-strategy/index.md)
+_Internal Link_: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/seo-content-writing-strategy)
 
 ---
 
@@ -175,6 +175,7 @@ Tools make audits easier. Here’s my 2025 lineup—with hacks I’ve tested.
 - **AIOSEO**: Free error flags ([aioseo.com](https://aioseo.com)).
 - **The HOTH**: Free 50+ signals ([thehoth.com](https://www.thehoth.com)).
 - **Yoast**: Readability focus ([yoast.com](https://yoast.com)).
+- **Screaming Frog SEO Spider**: For technical SEO audits ([screamingfrog.co.uk](https://www.screamingfrog.co.uk/)).
 - **Your Test**: Try Semrush (free trial) and SEOptimer—compare speed scores today.
 
 ---
@@ -213,6 +214,6 @@ Tools make audits easier. Here’s my 2025 lineup—with hacks I’ve tested.
 - **Start Now**: Crawl today, fix one thing tomorrow, track next week—momentum rules.
 - **Your Goal**: Aim for progress—like more traffic—in 30 days. You’ve got this!
 
-_Read About_: [How To Do Keyword Research: 27 Beginner-Friendly Tips](../how-to-do-keyword-research/index.md)
+_Read About_: [How Do I Audit My Website For Better Rankings](https://www.seomissioncontrol.com/blog/how-to-do-seo-audit)
 
 ---
