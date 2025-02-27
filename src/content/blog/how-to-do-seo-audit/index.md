@@ -4,7 +4,7 @@ summary: "Master SEO audits in 2025 with 12 proven steps from an SEO specialist.
 date: "Feb 26, 2025"
 draft: false
 tags:
-  - SEO audit
+  - SEO Audit Steps
 ---
 
 ### What Is an SEO Audit, Anyway?

@@ -5,7 +5,7 @@ date: "Feb 20, 2025"
 lastUpdated: "Feb 21, 2025"
 draft: false
 tags:
-  - Future Of Money Management
+  - AI Money Management
 keywords: "AI personal finance, AI budgeting tools, robo-advisors, future of money management, AI credit scoring"
 demoUrl: https://www.seomissioncontrol.com
 repoUrl: https://github.com/telapantela
