@@ -4,7 +4,7 @@ summary: "Discover 24 actionable SEO writing tips for better Google rankings. Le
 date: "Feb 18, 2025"
 draft: false
 tags:
-  - SEO Content Writing
+  - Content Writing Tips
 ---
 
 ---
