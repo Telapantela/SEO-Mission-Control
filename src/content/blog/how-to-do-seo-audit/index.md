@@ -1,5 +1,5 @@
 ---
-title: "How Do I Audit My Website For Better Rankings"
+title: "How To Audit My Website For Better Rankings"
 summary: "Master SEO audits in 2025 with 12 proven steps from an SEO specialist. Learn insider tools, fixes, and hacks to improve rankings, traffic, and user trust—practical, no fluff."
 date: "Feb 26, 2025"
 draft: false
