@@ -1,5 +1,5 @@
 ---
-title: "How To Do Keyword Research: 27 Beginner-Friendly Tips"
+title: "How To Do Keyword Research: 27 Beginner-Friendly Guide"
 summary: "Master keyword research with 27 practical, beginner-friendly tips blending free tools, creative hacks, and smart strategies to uncover keywords that drive traffic and conversions—no expensive tools required."
 date: "Feb 21, 2025"
 draft: false
