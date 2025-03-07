@@ -59,7 +59,7 @@ Copy their text into Word—what’s the word count? 1,200? 2,500? Thin pages ar
 - **Pro Tip**: If they’re under 1,000 words, outdo them with a bit more—say, 1,200 words—since longer, quality content often ranks higher (Backlinko, 2021 study, still relevant). For “best coffee makers,” a 900-word listicle loses to 1,100 words with richer detail—like specs, pros/cons, or a user story. Depth wins when it’s useful, not bloated. Example: if they list “Top 5 Coffee Makers” with basic blurbs, you could add a “How We Tested” section or a buyer’s checklist—think “What to Look for in a Coffee Maker: Grind Size, Brew Time, and More.” That’s value readers crave.
 - **Bonus**: Count paragraphs—short, choppy ones (2–3 sentences) hint at rushed work. A competitor with 15 stubby paragraphs at 800 words is weaker than one with 10 solid ones at 1,200. Aim for 4–5 sentences per paragraph; it’s scannable yet meaty. Dig deeper: if their 900-word post has 20 paragraphs averaging 45 words each, it’s skimpier than it looks—more like a skeleton than a guide. Your 1,200-word piece with 12 robust paragraphs (100 words each) feels fuller, answers more questions, and keeps users longer—Google notices that dwell time.
 
-_Want more? Check out: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/seo-content-writing-strategy)_
+_Want more? Check out: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/01-seo-content-writing)_
 
 ### 5. Study Their Structure
 

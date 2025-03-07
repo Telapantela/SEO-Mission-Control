@@ -249,5 +249,5 @@ Keyword research isn’t rocket science—it’s tools, creativity, and strategy
 
 ---
 
-_[How Do I Audit My Website For Better Rankings](https://www.seomissioncontrol.com/blog/how-to-do-seo-audit)._
-_[How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/seo-content-writing-strategy)._
+_Want more? Check out: [How Do I Audit My Website For Better Rankings](https://www.seomissioncontrol.com/blog/how-to-do-seo-audit)._
+_Want more? Check out: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/01-seo-content-writing)_
