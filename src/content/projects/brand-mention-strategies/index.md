@@ -17,7 +17,7 @@ In this guide, I’ll walk you through why mentions matter more than ever, how t
 
 ---
 
-## Why Brand Mentions Matter in General
+## The Rise of Brand Mentions in Modern SEO
 
 Today, people searching online—especially via smartphones—often get what they need without leaving Google. Zero-click searches, powered by snippets, panels, and AI-driven summaries, are increasingly common, according to ongoing observations from SparkToro and similar analytics sources. For anyone in SEO, this means the old focus on clicks is fading; what matters now is being seen on the results page itself.
 
@@ -27,7 +27,7 @@ Look at Google’s AI Overviews as an example. These features pull from a wide r
 
 And it’s not just about text anymore. With voice and video searches gaining ground, a mention in a podcast or YouTube video could soon rival a written nod, offering multiple channels to shine in this zero-click era.
 
-### Google’s Smart Recognition
+### How Google Spots Brand Mentions Without Links
 
 Google’s not stuck on counting links—it’s gotten sharper at spotting mentions, thanks to its natural language tools and Knowledge Graph. When someone drops your brand name in a meaningful context, like a podcast about SEO tips, Google makes the connection, linking you to that topic.
 
@@ -35,7 +35,7 @@ This boils down to intent. When your brand appears next to respected names in yo
 
 Imagine a podcast host saying, “Jane’s SEO tricks are unbeatable.” Google picks that up and starts associating “Jane” with SEO know-how, no hyperlink required. It’s a straightforward, clever way to build credibility in 2025.
 
-### Social Buzz as a Power Boost
+### Reddit & Quora: Your SEO Secret Weapon
 
 Platforms like Reddit and Quora aren’t just hangouts—they’re treasure troves for SEO signals. Search engines value them for their real-time energy and user interaction. A mention in a buzzing Reddit thread can take off, gathering upvotes and shares that tell Google you’re worth a look.
 
@@ -51,7 +51,7 @@ The concept is clear: a mention from a trusted spot, tied to your field, weaves 
 
 Here’s a tidbit: a mention from a niche site with a modest DA 30 can outdo a random DA 60 site if it’s bang-on for your topic. Relevance rules the day.
 
-### Unlinked vs. Linked Mentions
+### How Mentions Shape Rankings
 
 Not every mention needs a link—and that’s fine. Unlinked mentions, like a quick podcast shoutout, spread your name far with little work. Google’s language smarts can catch “Jane’s SEO skills rock” and link it to your brand, no URL needed.
 
@@ -59,7 +59,7 @@ Linked mentions, though, hit harder for rankings. A clickable “Jane’s SEO Gu
 
 One trend to note: vague link text like “click here” is losing steam. Something like “SEO tips by Jane” matches Google’s push for meaning, especially in zero-click setups.
 
-### The Long Game with Evergreen Content
+### Mentions That Last
 
 Mentions in lasting formats—like podcasts or videos—keep delivering. A 2023 podcast episode on SEO essentials might still draw listeners in 2025, name-dropping you each time. That’s durability you won’t find in a fleeting blog post.
 
@@ -67,7 +67,7 @@ Think of it as planting a seed: one solid mention grows, sparking more talk as i
 
 ---
 
-## The Hidden Power of Brand Mentions in 2025
+## The Hidden Power of Brand Mentions
 
 In a zero-click world, trust isn’t about clicks—it’s about who’s mentioning you. When your brand pops up in the right spots, like chats about SEO tools, it builds authority without a site visit. A handful of dead-on mentions can top dozens of stray links any day.
 
@@ -85,13 +85,13 @@ Word is, by late 2025, Google might sharpen its ear for audio mentions—like a 
 
 Spoken mentions have a genuine vibe, too—less polished than a blog link—which might earn them extra trust down the road.
 
-### Sentiment’s Quiet Role
+### Does Sentiment in Mentions Shape Your SEO?
 
 Does it matter if a mention sings your praises or grumbles? It might. A glowing “Jane’s SEO Toolkit rocks” could boost your cred more than a neutral note, while a sour one might pull you back unless offset by positives. There’s no solid proof Google tracks this yet, but it’s a reasonable hunch given its sentiment-reading elsewhere. A blend of praise and real talk feels authentic either way.
 
 ---
 
-## Top Brand Mention Strategies for Zero-Click Success
+## Top Brand Mention Strategies
 
 ### Plant Seeds for Mentions
 
