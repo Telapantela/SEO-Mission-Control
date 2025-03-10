@@ -5,7 +5,7 @@ interface Props {
   description: string;
   image?: string;
 }
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const canonicalURL = `https://www.seomissioncontrol.com${Astro.url.pathname.replace(/^\/+/, "")}`;
 const { title, description, image = "/image.webp" } = Astro.props;
 ---
 
