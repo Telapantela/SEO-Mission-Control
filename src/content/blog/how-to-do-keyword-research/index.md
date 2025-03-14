@@ -1,5 +1,5 @@
 ---
-title: "How To Do Keyword Research: 27 Beginner-Friendly Guide"
+title: "How to Get Better at Keyword Research"
 summary: "Master keyword research with 27 practical, beginner-friendly tips blending free tools, creative hacks, and smart strategies to uncover keywords that drive traffic and conversions—no expensive tools required."
 date: "Feb 21, 2025"
 draft: false
@@ -233,7 +233,7 @@ In this guide, you’ll get 27 actionable, beginner-friendly tips to master keyw
 
 **Action**: Write these steps in your notes and check them off.
 
-### 27. How to Get Better at Keyword Research?
+### 27. How To Do Keyword Research?
 
 **Tip**: Practice weekly—research 5 keywords, test them in content, and track results with Google Search Console.
 
