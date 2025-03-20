@@ -156,7 +156,7 @@ Here’s your 12-step audit—battle-tested by me, better than tool-heavy guides
 - **Tip**: Go evergreen—“2024 tips” to “timeless hacks” ([source](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)).
 - **Your Gain**: Update one page. Add a video—track traffic in 30 days.
 
-_Want more? Check out: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/01-seo-content-writing)_
+_Want more? Check out: [How To Write SEO Content: 24 Beginner-Friendly Tips](https://www.seomissioncontrol.com/blog/how-to-write-seo-content)_
 
 ---
 
