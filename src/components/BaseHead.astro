@@ -1,11 +1,21 @@
 ---
 import { ViewTransitions } from "astro:transitions";
+
 interface Props {
   title: string;
   description: string;
   image?: string;
 }
-const canonicalURL = `https://www.seomissioncontrol.com${Astro.url.pathname.replace(/^\/+/, "")}`;
+
+const siteURL = "https://www.seomissioncontrol.com";
+let path = Astro.url.pathname;
+
+// Uklanja višestruke početne i završne kose crte
+path = path.replace(/^\/+|\/+$/g, "");
+
+// Ako je root stranica, ostavi samo osnovni URL
+const canonicalURL = path ? `${siteURL}/${path}/` : siteURL;
+
 const { title, description, image = "/image.webp" } = Astro.props;
 ---
 
@@ -54,17 +64,17 @@ const { title, description, image = "/image.webp" } = Astro.props;
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content={Astro.url} />
+<meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image, Astro.url)} />
+<meta property="og:image" content={new URL(image, siteURL)} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:url" content={canonicalURL} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(image, Astro.url)} />
+<meta property="twitter:image" content={new URL(image, siteURL)} />
 
 <!-- Sitemap -->
 <link rel="sitemap" href="/sitemap-index.xml" />
@@ -74,7 +84,7 @@ const { title, description, image = "/image.webp" } = Astro.props;
   rel="alternate"
   type="application/rss+xml"
   title={title}
-  href={`${Astro.site}rss.xml`}
+  href={`${siteURL}/rss.xml`}
 />
 
 <!-- Global Scripts -->
