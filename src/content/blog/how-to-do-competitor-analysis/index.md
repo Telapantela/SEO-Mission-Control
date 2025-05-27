@@ -1,5 +1,5 @@
 ---
-title: "How To Do Competitor Analysis For Beginners: Step-by-Step Guide"
+title: "How To Analyze SEO Strategies Of Competitors"
 summary: "Outrank rivals with my beginner’s guide, 13 expert steps to top the SEO game!"
 date: "Mar 04, 2025"
 draft: false
