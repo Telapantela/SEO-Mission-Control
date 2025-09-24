@@ -1,7 +1,7 @@
 ---
 title: "How To Write SEO Content"
-summary: "Struggling to write SEO content? Follow this step-by-step guide."
-date: "Jun 18, 2025"
+summary: "Struggling to Write SEO content? Follow this step-by-step guide."
+date: "Sep 17, 2025"
 draft: false
 tags:
   - Content Writing Strategy
