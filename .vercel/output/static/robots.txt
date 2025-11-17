@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://www.seomissioncontrol.com/sitemap-index.xml

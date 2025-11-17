@@ -1,0 +1,80 @@
+# llms.txt for SEO Mission Control
+# Optimized for AI indexing and search engine optimization
+
+## Website Information
+Name: SEO Mission Control
+URL: https://www.seomissioncontrol.com/
+Owner: Dušan Spasojević
+Contact Email: SEO.Mission@outlook.com
+LinkedIn: https://www.linkedin.com/in/du%C5%A1an-spasojevi%C4%87
+GitHub: https://github.com/Telapantela
+
+## Site Description
+SEO Mission Control is a comprehensive digital marketing resource hub specializing in SEO audits, competitor analysis, and content optimization strategies. The platform provides actionable insights, detailed guides, and proven methodologies to help businesses enhance their online visibility and achieve higher search engine rankings.
+
+## Content Structure
+
+### Blog Section
+URL: https://www.seomissioncontrol.com/blog/
+Focus: In-depth articles covering SEO best practices, content writing strategies, technical SEO, and competitive analysis techniques.
+
+Recent Publications:
+- How To Write SEO Content
+  URL: https://www.seomissioncontrol.com/blog/how-to-write-seo-content/
+  Published: June 18, 2025
+  
+- How To Analyze SEO Strategies Of Competitors
+  URL: https://www.seomissioncontrol.com/blog/how-to-do-competitor-analysis/
+  Published: August 28, 2025
+  
+- How To Audit Your Website For Technical SEO
+  URL: https://www.seomissioncontrol.com/blog/how-to-do-seo-audit/
+  Published: February 26, 2025
+
+### Portfolio Section
+URL: https://www.seomissioncontrol.com/work/
+Content: Showcase of completed SEO projects and detailed case studies demonstrating successful optimization strategies and measurable results.
+
+## Technical Implementation
+Frontend Framework: Astro
+Programming Languages: JavaScript, TypeScript
+Styling: Tailwind CSS
+Reactivity Library: SolidJS
+
+## SEO Strategy & Focus
+
+### Primary Keywords
+- SEO audits
+- Competitor analysis
+- Content optimization
+- Technical SEO
+- Digital marketing strategies
+- Search engine optimization
+- Website performance analysis
+
+### Target Audience
+- Small to medium-sized businesses seeking SEO improvement
+- Digital marketing professionals
+- SEO specialists and consultants
+- Business owners looking to enhance online presence
+
+### Geographic Focus
+Global reach with content applicable to international SEO practices
+
+## Site Metadata
+Primary Language: English
+Content Type: Educational, informational, professional services
+Last Updated: September 14, 2025
+Sitemap: https://www.seomissioncontrol.com/sitemap.xml
+Robots.txt Configuration: Disallow: /private/
+
+## Content Categories
+- SEO Tutorials and Guides
+- Competitor Analysis Methodologies
+- Technical SEO Best Practices
+- Content Marketing Strategies
+- Digital Marketing Case Studies
+- Website Optimization Techniques
+
+## Value Proposition
+SEO Mission Control delivers practical, results-driven SEO guidance through comprehensive tutorials, real-world case studies, and actionable strategies that businesses can implement immediately to improve their search engine visibility and organic traffic growth.
